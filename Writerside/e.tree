@@ -12,4 +12,5 @@
         <toc-element topic="adjective.md"/>
         <toc-element topic="noun.md"/>
     </toc-element>
+    <toc-element topic="misc.md"/>
 </instance-profile>
